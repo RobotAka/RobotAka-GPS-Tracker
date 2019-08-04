@@ -2,3 +2,5 @@
 .piolibdeps
 .vscode
 .travis.yml
+.pio
+*.db
